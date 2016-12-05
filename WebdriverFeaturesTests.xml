@@ -16,10 +16,15 @@
         <classes>
             <class name="tests.JSHandleTest"/>
         </classes>
-    </test>-->
-    <test name="WindowsTest">
+    </test>
+    <test name="DragNDropTest">
         <classes>
-            <class name="tests.WindowsTest"/>
+            <class name="tests.DragNDropTest"/>
+        </classes>
+    </test>-->
+    <test name="CanvasTest">
+        <classes>
+            <class name="tests.CanvasTest"/>
         </classes>
     </test>
 </suite>
