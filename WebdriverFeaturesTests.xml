@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="WebDriverFeaturesTests">
+    <!--<test name="IFrameTest">
+        <classes>
+            <class name="tests.IFrameTest"/>
+        </classes>
+    </test>
+    <test name="WindowsTest">
+        <classes>
+            <class name="tests.WindowsTest"/>
+        </classes>
+    </test>
+    <test name="JSAlertsTest">
+        <classes>
+            <class name="tests.JSHandleTest"/>
+        </classes>
+    </test>-->
+    <test name="WindowsTest">
+        <classes>
+            <class name="tests.WindowsTest"/>
+        </classes>
+    </test>
+</suite>
+
+
